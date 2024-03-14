@@ -1,0 +1,8 @@
+{
+  "examplesNest": [
+    {
+      "name": "websockets",
+      "dependency": ["@nestjs/websockets", "@nestjs/platform-socket.io"]
+    }
+  ]
+}
